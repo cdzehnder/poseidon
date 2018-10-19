@@ -138,7 +138,7 @@ Options:
 
 ```
 
-Poseidon makes heavy use of a sister project, [vent](https://vent.readthedocs.io/en/latest/?badge=latest). With a succesful installation you should minimally see a combination of Poseidon and Vent components, to include:
+Poseidon makes heavy use of a sister project, [vent](https://vent.readthedocs.io/en/latest/?badge=latest). With a successful installation you should minimally see a combination of Poseidon and Vent components, to include:
 
 1. The following 14 containers with a "(healthy)" STATUS listed (NOTE: this is truncated output):
 ```
